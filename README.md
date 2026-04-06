@@ -1,8 +1,10 @@
 # my-rustlings-solutions
 ## About
 Solving **Rustlings** exercises while working through the **Rust Book**.
+Repository will be updated at **throughout my coding sessions** and may be after **multiple exercise completions**.
 
-## Update Info
-Repo will be updated daily as exercises are completed while I try to self-teach Rust.
+If I don't push anything for a bit... I probably got busy with life.
 
 Wish me luck.
+
+- Nathan
